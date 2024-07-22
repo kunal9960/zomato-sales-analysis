@@ -8,9 +8,9 @@
 This Power BI dashboard is an interactive tool offering insights into city performance, user behavior, and platform metrics. 
 Built with Excel data, it provides a comprehensive overview for data-driven decision-making.
 
-<img src="https://github.com/kunal9960/zomato-powerbi-dashboard/blob/master/Zomato%20BI_pages-to-jpg-0001.jpg" width="700">
-<img src="https://github.com/kunal9960/zomato-powerbi-dashboard/blob/master/Zomato%20BI_pages-to-jpg-0002.jpg" width="700">
-<img src="https://github.com/kunal9960/zomato-powerbi-dashboard/blob/master/Zomato%20BI_pages-to-jpg-0003.jpg" width="700">
+<img src="https://github.com/kunal9960/zomato-sales-analysis/blob/master/Images/Zomato%20BI_pages-to-jpg-0001.jpg" width="700">
+<img src="https://github.com/kunal9960/zomato-sales-analysis/blob/master/Images/Zomato%20BI_pages-to-jpg-0002.jpg" width="700">
+<img src="https://github.com/kunal9960/zomato-sales-analysis/blob/master/Images/Zomato%20BI_pages-to-jpg-0003.jpg" width="700">
 
 
 # Main Overview
